@@ -5,7 +5,7 @@
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-spectral/6"
+     "spectral/6"
     ],
     "category": "defense",
     "research": {

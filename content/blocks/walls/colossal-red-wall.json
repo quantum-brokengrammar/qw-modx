@@ -5,7 +5,7 @@
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-red/54"
+     "red/54"
     ],
     "category": "defense",
     "research": {

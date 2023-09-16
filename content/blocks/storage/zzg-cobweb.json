@@ -7,7 +7,7 @@
     "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-spectral/3"
+     "spectral/3"
     ],
     "category": "effect",
     "research": {

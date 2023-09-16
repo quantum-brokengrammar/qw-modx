@@ -5,7 +5,7 @@
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-pink/6"
+     "pink/6"
     ],
     "category": "defense",
     "research": {

@@ -6,7 +6,7 @@
     "displaySize": 96,
     "requirements": [
         "metaglass/50",
-        "camod-green/25"
+        "green/25"
     
     ],
     "category": "logic"

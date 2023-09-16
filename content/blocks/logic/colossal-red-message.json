@@ -9,7 +9,7 @@
     "requirements": [
      "graphite/10",
      "copper/10",
-        "camod-red/3"
+        "red/3"
     ],
     "category": "logic",
     "research": {

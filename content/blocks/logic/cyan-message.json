@@ -9,7 +9,7 @@
     "requirements": [
      "copper/5",
         "graphite/5",
-        "camod-cyan2/1"
+        "cyan2/1"
     ],
     "category": "logic",
     "research": {

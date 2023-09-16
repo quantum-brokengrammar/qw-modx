@@ -5,7 +5,7 @@
     "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-blue/24"
+     "blue/24"
     ],
     "category": "defense",
     "research": {

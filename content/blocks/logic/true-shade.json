@@ -5,8 +5,8 @@
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-spectral/1",
-        "camod-black/1"
+     "spectral/1",
+        "black/1"
     ],
     "category": "effect",
     "research": {
