@@ -1,15 +1,21 @@
 {
-    name: "camod",
-    repo: "Chaoticans-mindustry-modding-team/ca-mod",
-    minGameVersion: 143,
+    name: "ca-mod",
+    repo: "quantum-brokengrammar/qw-mod",
+    minGameVersion: 144,
     version: "135",
     
-    displayName: "ca-mod",
-    author: "The chaoticans",
-    subtitle:"May contain Egg",
+    displayName: "qw mod",
+    author: "The Chaoticans\nT4SC [Mass <=> Energy]\nquantum bg",
+    subtitle: "Sandbox just got more fun.",
     description:
 '''
-Mod for mindustry server                 
+Aesthetics and convenience mod for roleplay and sandbox players;
+
+Adds features such as:
+• Larger messages,
+• Faster processors,
+• More wall colors and sizes,
+• Much more!
 '''
     hideBrowser: false,
     hidden: true,
